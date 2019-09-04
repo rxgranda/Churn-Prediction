@@ -2,13 +2,16 @@
 
 The purpose of this project is to develop the whole pipeline that is required to develop machine learning models that can predict churn of wireless telephony customers of a telecom in Latin America.
 
+
+
 ## Remarks on the code provided
 
 Together with this report we provide two Jupyter notebooks:
-*  Data PreProcessing and Exploration.ipynb : This notebook contains the code for the data prep-processing, exploration, and visualization.
-*  Model Testing and HyperParameter Tunning.ipynb : This notebook shows the training phase of our pipeline. It also includes the code for hyper-parameter tuning of several models and our feature selection strategies.
+*  **Data PreProcessing and Exploration.ipynb** : This notebook contains the code for the data prep-processing, exploration, and visualization.
+*  **Model Testing and HyperParameter Tunning.ipynb** : This notebook shows the training phase of our pipeline. It also includes the code for hyper-parameter tuning of several models and our feature selection strategies.
 *  An anonymized train and test dataset.
 *  A report with insights about the ML project
+
 
 ### Prerequisites
 
@@ -19,13 +22,6 @@ Together with this report we provide two Jupyter notebooks:
 ### How to run?
 
 Just Launch the Jupyter Notebooks
-
-## Parameters
-
-
-## Output
-
-The program will return a file named Output.xml with all possible duplicate pairs.
 
 
 
